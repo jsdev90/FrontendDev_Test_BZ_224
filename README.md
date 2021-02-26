@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Web application of Umbrella Lab’s commercial insurance binder
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
